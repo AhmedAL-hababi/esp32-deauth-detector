@@ -1,0 +1,4 @@
+dependencies:
+  idf: ">=5.0"
+  esp-idf-lib/hd44780: "*"
+  esp-idf-lib/esp_idf_lib_helpers: "*"
